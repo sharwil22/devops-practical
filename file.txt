@@ -1,1 +1,7 @@
-Hello DevOps
+Hello Git
+<<<<<<< HEAD
+Change from main branch
+Change from conflict branch
+=======
+New branch update
+>>>>>>> b609e6c (Added changes in feature branch)
